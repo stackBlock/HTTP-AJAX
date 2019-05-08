@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+}
+
+.card {
+  width: 30%;
+  margin: 5px 50px;
+  border: 1px solid green;
+  padding-left: 25px;
+}
